@@ -52,3 +52,5 @@
 | `UnProtect` | ... |
 | `MakeRET` | ... |
 | `MakeNOP` | ... |
+| `GetGTAImage` | ... |
+| `GetSAMPImage` | ... |
