@@ -19,7 +19,7 @@
 ### NetGame
 | Name | Called When                |
 | :-------- | :------- |
-| `OnConnect` | When the client is about to connect to a server |
+| `OnConnect` | When the client successfully connected to a server |
 | `OnDisconnect` | When the client was disconnected from a server |
 
 ### Interface
