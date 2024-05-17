@@ -28,3 +28,13 @@
 | :-------- | :------- |
 | `PrintLog` | Used to write/print a text |
 | `SendClientMessage` | Send a message to the client itself |
+
+### Memory
+| Name | Use             |
+| :-------- | :------- |
+| `CastAddress` | Cast a function using the address. |
+| `WriteMemory` | ... |
+| `ReadMemory` | ... |
+| `UnProtect` | ... |
+| `MakeRET` | ... |
+| `MakeNOP` | ... |
