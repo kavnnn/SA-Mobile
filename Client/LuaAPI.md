@@ -10,23 +10,32 @@
 | `ScriptDescription` | Description of a Lua/Script |
 
 ### SAMP
-| Function | Called When                |
+| Name | Called When                |
 | :-------- | :------- |
 | `OnSAMPPreload` | SA Mobile is preloading |
 | `OnSAMPStarted` | When the client fully loaded some functions. |
 | `OnSAMPClose` | Called when the Game crash or closed |
 
 ### NetGame
-| Function | Called When                |
+| Name | Called When                |
 | :-------- | :------- |
 | `OnConnect` | When the client is about to connect to a server |
 | `OnDisconnect` | When the client was disconnected from a server |
 
 ### Interface
-| Function | Called When                |
+| Name | Called When                |
 | :-------- | :------- |
 | `OnInterfaceLoad` | Interface loaded the font and initialized some things |
 | `RenderInterface` | Called when the interface is rendering. |
+
+### ImGui
+| Name | Use             |
+| :-------- | :------- |
+| `ImGuiBegin` | ... |
+| `ImGuiEnd` | ... |
+| `ImGuiText` | ... |
+| `ImGuiButton` | ... |
+
 
 ### Function
 | Name | Use             |
