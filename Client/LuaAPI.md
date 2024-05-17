@@ -1,9 +1,15 @@
 
 ## Lua Loader
 
+### Script
+| Name | Use             |
+| :-------- | :------- |
+| `ScriptName` | Lua/Script Name |
+| `ScriptAuthor` | The one who created the Lua/Script |
+| `ScriptVersion` | Current version of the Lua/Script |
+| `ScriptDescription` | Description of a Lua/Script |
+
 ### SAMP
-
-
 | Function | Called When                |
 | :-------- | :------- |
 | `OnSAMPPreload` | SA Mobile is preloading |
