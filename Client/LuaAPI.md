@@ -15,7 +15,12 @@
 | `OnSAMPPreload` | SA Mobile is preloading |
 | `OnSAMPStarted` | When the client fully loaded some functions. |
 | `OnSAMPClose` | Called when the Game crash or closed |
+
+### NetGame
+| Function | Called When                |
+| :-------- | :------- |
 | `OnConnect` | When the client is about to connect to a server |
+| `OnDisconnect` | When the client was disconnected from a server |
 
 ### Interface
 | Function | Called When                |
