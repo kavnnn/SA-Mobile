@@ -16,6 +16,13 @@
 | `OnSAMPStarted` | When the client fully loaded some functions. |
 | `OnSAMPClose` | Called when the Game crash or closed |
 
+### SAMPFuncs
+| Name | Use               |
+| :-------- | :------- |
+| `GetLocalPlayerID` | ... |
+| `GetSlotState` | ... |
+| `GetPlayerName` | ... |
+
 ### NetGame
 | Name | Called When                |
 | :-------- | :------- |
