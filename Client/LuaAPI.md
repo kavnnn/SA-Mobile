@@ -35,7 +35,10 @@
 | `ImGuiEnd` | ... |
 | `ImGuiText` | ... |
 | `ImGuiButton` | ... |
-
+| `ImGuiSetNextWindowSize` | ... |
+| `ImGuiTreeNodeEx` | ... |
+| `ImGuiCheckbox` | ... |
+| `ImGuiAddText` | ... |
 
 ### Function
 | Name | Use             |
