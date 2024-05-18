@@ -57,3 +57,8 @@
 | `MakeNOP` | ... |
 | `GetGTAImage` | ... |
 | `GetSAMPImage` | ... |
+
+### GTA
+| Name | Use             |
+| :-------- | :------- |
+| `ScriptCommand` | ... |
