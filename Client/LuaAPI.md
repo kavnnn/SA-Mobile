@@ -9,19 +9,19 @@
 | `ScriptVersion` | Current version of the Lua/Script |
 | `ScriptDescription` | Description of a Lua/Script |
 
-### SAMP
+### SAMPFuncs
 | Name | Called When                |
 | :-------- | :------- |
 | `OnSAMPPreload` | SA Mobile is preloading |
 | `OnSAMPStarted` | When the client fully loaded some functions. |
 | `OnSAMPClose` | Called when the Game crash or closed |
 
-### SAMPFuncs
 | Name | Use               |
 | :-------- | :------- |
 | `GetLocalPlayerID` | ... |
 | `GetSlotState` | ... |
 | `GetPlayerName` | ... |
+| `SendClientMessage` | Send a message to the client itself |
 
 ### NetGame
 | Name | Called When                |
@@ -51,7 +51,6 @@
 | Name | Use             |
 | :-------- | :------- |
 | `PrintLog` | Used to write/print a text |
-| `SendClientMessage` | Send a message to the client itself |
 
 ### Memory
 | Name | Use             |
