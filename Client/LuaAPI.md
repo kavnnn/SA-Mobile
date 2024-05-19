@@ -52,7 +52,7 @@
 | :-------- | :------- |
 | `PrintLog` | Used to write/print a text |
 
-### Memory
+### Memory (Temporarily removed)
 | Name | Use             |
 | :-------- | :------- |
 | `CastAddress` | Cast a function using the address. |
