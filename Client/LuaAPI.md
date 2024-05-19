@@ -68,3 +68,12 @@
 | Name | Use             |
 | :-------- | :------- |
 | `ScriptCommand` | ... |
+
+### BASS
+| Name | Use             |
+| :-------- | :------- |
+| `BASS_StreamCreateFile` | ... |
+| `BASS_ChannelPlay` | ... |
+| `BASS_ChannelIsActive` | ... |
+| `BASS_StreamFree` | ... |
+| `BASS_Free` | ... |
